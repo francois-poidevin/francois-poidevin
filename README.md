@@ -25,6 +25,8 @@ I am a Back-End Developer who is exploring Cloud :cloud: (currently AWS), and al
 <img src="https://img.shields.io/badge/-Groovy-BD6747?style=flat&logo=apachegroovy&logoColor=#4298B8" alt="Groovy">
 <img src="https://img.shields.io/badge/-ArgoCD-0FAFCD?style=flat&logo=git&logoColor=#F05032" alt="ArgoCD">
 <img src="https://img.shields.io/badge/-PostgreSQL-BE961E?style=flat&logo=postgresql&logoColor=#4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-postGis-BE961E?style=flat&logo=postgresql&logoColor=#4169E1" alt="postGis">
+<img src="https://img.shields.io/badge/-QGis-A769CD?style=flat&logo=qgis&logoColor=#589632" alt="QGis">
 <img src="https://img.shields.io/badge/-Git-0FAFCD?style=flat&logo=git&logoColor=#F05032" alt="Git">
 <img src="https://img.shields.io/badge/-Prometheus-19ADD3?style=flat&logo=prometheus&logoColor=#E6522C" alt="Prometheus">
 <img src="https://img.shields.io/badge/-Grafana-0B97FF?style=flat&logo=grafana&logoColor=#F46800" alt="Grafana">
