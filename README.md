@@ -3,7 +3,7 @@
 ---
 I am a Back-End Developer who is exploring Cloud :cloud: (currently AWS), and also be concerned by Dev-Ops aspect.
  
-🔭 I’m working for a Project **Continental: Connected eHorizon for constructing, in Golang, car ADASIS**.
+🔭 I’m working for a Project **Aumovio: Connected eHorizon for serving map data in Golang language, allowing constructing car ADASIS**.
 
 🌱 I’m currently learning  <img src="https://img.shields.io/badge/-AWS-DCD0C1?style=flat&logo=amazonaws&logoColor=#232F3E" alt="Docker"> AWS Cloud Platform
 
