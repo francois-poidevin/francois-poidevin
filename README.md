@@ -1,7 +1,10 @@
 ### Hey François here 👋
+---
+
+Here my personnal career website: [career](https://francois-poidevin.github.io/career/)
 
 ---
-I am a Back-End Developer who is exploring Cloud :cloud: (currently AWS), and also be concerned by Dev-Ops aspect.
+Also I am a Back-End Developer who is exploring Cloud :cloud: (currently AWS), and also be concerned by Dev-Ops aspect.
  
 🔭 I’m working for a Project **Aumovio: Connected eHorizon for serving map data in Golang language, allowing constructing car ADASIS**.
 
